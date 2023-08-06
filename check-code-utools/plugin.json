@@ -1,0 +1,12 @@
+{
+  "main": "index.html",
+  "preload": "preload.js",
+  "logo": "logo.jpg",
+  "features": [
+    {
+      "code": "hello",
+      "explain": "直接回车就能粘贴验证码啦----向前",
+      "cmds": ["1", "2", "11", "12", "code", "验证码", "向前", "rational_stars"]
+    }
+  ]
+}
