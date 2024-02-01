@@ -26,9 +26,4 @@
 无任何隐藏、混淆和加密代码，所有代码开源可供用户查阅学习。
 不需要的用户可以无视。
 
-### 赞赏码奉上 支持一下啦 （没有工作的！禁止赞赏！！！）
-
-<img src="https://cdn.jsdelivr.net/gh/rational-stars/picgo/wechat.jpeg" alt="10662733-22D6-421F-825E-D2F1DD04ACBD" style="zoom:20%;" />
-
-<img src="https://cdn.jsdelivr.net/gh/rational-stars/picgo/zhifub.jpeg" alt="EFF22B48-F95D-427A-BFBC-D0E3D2C049AA" style="zoom:15%;" />
 
